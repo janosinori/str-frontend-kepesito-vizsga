@@ -17,6 +17,8 @@ export class MovieListComponent implements OnInit {
 
   getMovies(): void {}
 
-  deleteMovie(id: number): any {}
-
+  deleteMovie(id: number): any {
+  //   return delete(MovieListComponent);
+  // }
+  }
 }

@@ -1,0 +1,25 @@
+.card{
+    background-color: rgb(73, 73, 65);
+    display:flex;
+    flex-direction: center;
+    margin: 3 auto;
+    padding: 1rem;
+    width: 650px;
+}
+
+.img{
+    width: 90%;
+    display:flex;
+    flex-direction: center;
+    margin: 3 auto;
+}
+
+.h3{
+    text-align: center;
+    color: rgb(214, 176, 106);
+}
+
+.p{
+    text-align: center;
+    color: rgb(214, 176, 106);
+}
